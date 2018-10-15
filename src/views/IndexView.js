@@ -693,6 +693,8 @@ class IndexView extends React.Component {
   }
 }
 
-module.exports = IndexView
+export default IndexView;
+//module.exports = IndexView;
+
 
 /* eslint-enable */
